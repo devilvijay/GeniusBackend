@@ -1,2 +1,2 @@
-# GeniusBackend
-Run Server.js to start
+# genius
+# run server.js to run the server

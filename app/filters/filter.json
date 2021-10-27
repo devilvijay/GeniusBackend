@@ -1,0 +1,9 @@
+{
+    "filters": {
+        "subjects" : ["Maths","Science","English","Hindi","SocialStudies"],
+        "Standard" : ["I","II","III","IV","V","VI","VII","VII","IX","X","XI","XII"],
+        "Board" : ["CBSE","ICSE","State Board"],
+        "location" : ["Pune","Delhi","Bengalore","Kolkata","Jaipur"],
+        "price" : [[0,1000],[1000,5000],[5000,1]]
+    }
+}

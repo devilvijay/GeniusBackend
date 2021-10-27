@@ -1,0 +1,5 @@
+{
+    "Fields" : ["School","College"],
+    "Standard" : ["I","II","III","IV","V","VI","VII","VII","IX","X","XI","XII"],
+    "Board" : ["CBSE","ICSE","State Board"]
+}
