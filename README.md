@@ -1,2 +1,2 @@
 # GeniusBackend
-dfhd
+Run Server.js to start
